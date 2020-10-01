@@ -8,6 +8,8 @@ body {
     text-align: center;
     color: black;
     padding-top: 50px;
+    font-size: xxx-large;
+    font-family: cursive;
 }
 
 
@@ -42,4 +44,41 @@ img {
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
+}
+
+form {
+    flex-basis 25%;
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+textarea {
+    width: 900px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    font-family: cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: auto;
+}
+
+.submit{
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+
+ h3 h5{
+    background-image: url("https://cdn.hipwallpaper.com/i/70/96/IP835L.jpg");
+    height: 50px;
+    margin: 50px 0 0 0;
+    text-align: center;
+    padding-top: 20px;
+    font-size: xx-large;
+    font-family: cursive;
 }
